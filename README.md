@@ -3,6 +3,8 @@ photogallery description
 <h4>how to run</h4>
 <pre>git clone
 grunt serve</pre>
+<h4>link</h4>
+<p>https://github.com/tjhubert/photogallery</p>
 <h4>yeoman.io</h4>
 <p>This template is used as DOM marker in HTML and layout in CSS.</p>
 <h4>bxSlider</h4>
