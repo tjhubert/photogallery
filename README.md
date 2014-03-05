@@ -1,5 +1,8 @@
 photogallery description
 ============
+<h4>how to run</h4>
+<pre>git clone
+grunt serve</pre>
 <h4>yeoman.io</h4>
 <p>This template is used as DOM marker in HTML and layout in CSS.</p><br></br>
 <h4>bxSlider</h4>
