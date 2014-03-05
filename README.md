@@ -5,4 +5,4 @@ photogallery description
 <h4>bxSlider</h4>
 <p>This jQuery plug-in is used for browsing through photos in the Gallery (gallery.html) (or if clicking view from Home(index.html) tab.</p><br></br>
 <h4>JQuery</h4>
-<p>This is used for DOM manipulation. Clicking the button that displays the location of the image removes the current images, loads the images from /images, picks the images with the same tag as the button, appends the links of the images at the gallery.html under .bxslider, and reload the slider. Default is set as the first button(Indonesia) that calls the images with tag "Indonesia".</p>
+<p>This is used for DOM manipulation. Under gallery.html, there are buttons that shows location of the images were taken (Indonesia, Singapore, Japan, USA). Choosing the category of the location displays the corresponding images. Clicking the button removes the current images, loads the data from /mockup/data.json using ajax, picks the corresponding files from /images, appends the links of the files at the gallery.html under .bxslider, and reload the slider. Default is set as the first button(Indonesia) that calls the images with tag "Indonesia".</p>
